@@ -1,7 +1,6 @@
 {
     "name": "comp20hw13",
     "version": "1.0.0",
-    "description": "",
     "main": "page.js",
     "script": {
         "start": "node page.js"
@@ -10,8 +9,11 @@
         "type": "git",
         "url": ""
     },
-    "author": "",
+    "author": "Mpeich01",
     "license": "ISC",
-    "homepage": ""
-
+    "homepage": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "description": ""
 }
