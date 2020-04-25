@@ -1,0 +1,17 @@
+{
+    "name": "comp20hw13",
+    "version": "1.0.0",
+    "description": "",
+    "main": "page.js",
+    "script": {
+        "start": "node page.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": ""
+
+}
