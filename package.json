@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/mpeich01/firstheroku.git"
     },
     "author": "Mpeich01",
     "license": "ISC",
@@ -17,6 +17,9 @@
     },
     "description": "",
     "dependencies": {
-        "mongodb": "^3.5.6"
+        "fs": "0.0.1-security",
+        "http": "0.0.1-security",
+        "mongodb": "^3.5.6",
+        "url": "^0.11.0"
     }
 }
