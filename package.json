@@ -13,6 +13,7 @@
     "license": "ISC",
     "homepage": "",
     "scripts": {
+        "start": "node page.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "description": "",
