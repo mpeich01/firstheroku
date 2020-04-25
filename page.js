@@ -1,6 +1,6 @@
 var http = require('http')
 var url = require('url')
-var readline = require('readline');
+
 var fs = require('fs');
 
 const MongoClient = require('mongodb').MongoClient;
